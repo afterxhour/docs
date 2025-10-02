@@ -14,13 +14,6 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
-            "pages": [
-              "index",
-              "quickstart"
-            ]
-          },
-          {
             "group": "Customization",
             "pages": [
               "essentials/settings",
