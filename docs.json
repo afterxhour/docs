@@ -2,19 +2,25 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "almond",
   "name": "Crewform Docs",
-"colors": {
-  "primary": "#3EBAAF",
-  "light": "#63C9BF",
-  "dark": "#339B91"
+  "colors": {
+    "primary": "#3EBAAF",
+    "light": "#63C9BF",
+    "dark": "#339B91"
   },
   "favicon": "/favicon.ico",
   "navigation": {
     "tabs": [
       {
-        "tab": "Getting Started",
+        "tab": "Documentation",
         "groups": [
           {
-            "group": "Introduction",
+            "group": "Welcome",
+            "pages": [
+              "introduction"
+            ]
+          },
+          {
+            "group": "Getting Started",
             "pages": [
               "getting-started/overview",
               "getting-started/quick-setup",
