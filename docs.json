@@ -83,12 +83,12 @@
         },
         {
           "anchor": "Community",
-          "href": "https://discord.gg/crewform",
+          "href": "https://discord.gg/WdQYatRHeQ",
           "icon": "discord"
         },
         {
           "anchor": "Support",
-          "href": "https://discord.gg/crewform",
+          "href": "https://discord.gg/WdQYatRHeQ",
           "icon": "life-ring"
         }
       ]
@@ -119,7 +119,7 @@
   },
   "footer": {
     "socials": {
-      "discord": "https://discord.gg/crewform"
+      "discord": "https://discord.gg/WdQYatRHeQ"
     }
   }
 }
