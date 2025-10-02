@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Crewform Documentation",
-  "colors": {
-    "primary": "#9b87f5",
-    "light": "#D6BCFA",
-    "dark": "#7E69AB"
+"colors": {
+  "primary": "#3EBAAF",
+  "light": "#63C9BF",
+  "dark": "#339B91"
   },
   "favicon": "/favicon.ico",
   "navigation": {
